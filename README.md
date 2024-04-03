@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently studying on **PhD at the University of Miyazaki, Japan**
 
-- 🌱 I’m currently researching **Cow Detection, Segmemtation and Customize Tracking Algorithm**
+- 🌱 I’m currently researching **Object Detection, Segmemtation , Statistics and Customize Tracking Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaiHninEaindrarMg](https://github.com/WaiHninEaindrarMg)
 
-- 💬 Ask me about **Deep Learning , Computer Vison**
+- 💬 Ask me about **Deep Learning , Computer Vision**
 
 - 📫 How to reach me **waihnineaindrarmg@gmail.com**
 
