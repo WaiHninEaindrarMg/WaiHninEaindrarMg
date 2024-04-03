@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wai Hnin Eaindrar MG</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center"><b></b>AI Engineer</b></h3>
 
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/WaiHninEaindrarMg/WaiHninEaindrarMg/main/WaiHninEaindrarMg_Banner.png">
