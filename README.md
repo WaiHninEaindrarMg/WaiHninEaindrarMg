@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wai Hnin Eaindrar MG</h1>
 <h3 align="center">AI Engineer</h3>
 
+<img src="https://github.com/SanChainn/SanChainn/blob/main/San%20Chain%20Tun%20(1).png">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waihnineaindrarmg&label=Profile%20views&color=0e75b6&style=flat" alt="waihnineaindrarmg" /> </p>
 
 - 🔭 I’m currently studying on **PhD at the University of Miyazaki, Japan**
