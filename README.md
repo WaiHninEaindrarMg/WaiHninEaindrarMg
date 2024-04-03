@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waihnineaindrarmg&label=Profile%20views&color=0e75b6&style=flat" alt="waihnineaindrarmg" /> </p>
 
-- 🔭 I’m currently studying on **PhD at the University of Miyazaki, Japan**
+- 🔭 I’m currently studying for  **a PhD at the University of Miyazaki, Japan**
 
 - 🌱 I’m currently researching **Object Detection, Segmemtation , Statistics and Customize Tracking Algorithm**
 
