@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wai Hnin Eaindrar MG</h1>
 <h3 align="center">AI Engineer</h3>
 
-<img src="[https://github.com/.png](https://github.com/WaiHninEaindrarMg/WaiHninEaindrarMg/blob/main/WaiHninEaindrarMg_Banner.png?raw=true)">
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/WaiHninEaindrarMg/WaiHninEaindrarMg/main/WaiHninEaindrarMg_Banner.png">
 
 </div>
 
