@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying for  **a PhD at the University of Miyazaki, Japan**
 
-- 🌱 I’m currently researching **Object Detection, Segmentation , Customized Tracking, Classification, Identification, Calving Time Prediction, and Statistics **
+- 🌱 I’m currently researching **Object Detection, Segmentation , Customized Tracking, Classification, Identification, Calving Time Prediction, and Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WaiHninEaindrarMg](https://github.com/WaiHninEaindrarMg)
 
