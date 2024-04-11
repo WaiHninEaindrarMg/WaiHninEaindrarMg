@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wai Hnin Eaindrar Mg</h1>
-<h2 align="center"><b></b>AI ENGINEER</b></h2>
+<h2 align="center"><b></b>AI Researcher (Image Processing, Data Science)</b></h2>
 
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/WaiHninEaindrarMg/WaiHninEaindrarMg/main/WaiHninEaindrarMg_Banner.png">
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waihnineaindrarmg&label=Profile%20views&color=0e75b6&style=flat" alt="waihnineaindrarmg" /> </p>
 
-- 🔭 I’m currently studying for  **a PhD at the University of Miyazaki, Japan**
+- 🔭 I’m currently studying for  **a PhD candidate at the University of Miyazaki, Japan**
 
 - 🌱 I’m currently researching **Object Detection, Segmentation , Customized Tracking, Classification, Identification, Calving Time Prediction, and Statistics**
 
