@@ -3,7 +3,6 @@
 
 <div align="center"> 
 <img src="https://github.com/WaiHninEaindrarMg/WaiHninEaindrarMg/blob/main/WaiHninEaindrarMg_Banner%20(2).png">
-
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waihnineaindrarmg&label=Profile%20views&color=0e75b6&style=flat" alt="waihnineaindrarmg" /> </p>
