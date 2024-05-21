@@ -2,7 +2,7 @@
 <h2 align="center"><b></b>AI Researcher (Image Processing, Data Science)</b></h2>
 
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/WaiHninEaindrarMg/WaiHninEaindrarMg/main/WaiHninEaindrarMg_Banner.png">
+<img src="https://raw.githubusercontent.com/WaiHninEaindrarMg/WaiHninEaindrarMg/main/WaiHninEaindrarMg_Banner(2).png">
 
 </div>
 
